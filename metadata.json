@@ -1,0 +1,6 @@
+{
+  "name": "ناسينەوەی ڕووخسار",
+  "description": "شیکردنەوەی ڕووخسار و هەڵسوکەوتی بینراو لە وێنە - Face Recognition & Visual Analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
